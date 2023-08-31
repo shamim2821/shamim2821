@@ -1,3 +1,5 @@
+![logo](https://github.com/shamim2821/shamim2821/blob/main/shamim2821.jpeg)
+
 <h1 align="center">Hi 👋, I'm mohammad shamim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
